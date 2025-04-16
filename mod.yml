@@ -10,213 +10,309 @@ assets:
   - name: obj/W_EX010_NM.mdlx
   - name: obj/W_EX010_TR.mdlx
   - name: obj/W_EX010_WI.mdlx
-  method: copy
+  method: binarc
   source:
-  - name: Model/Kingdom_Key.mdlx
+  - name: w_ex
+    type: model
+    method: copy
+    source:
+    - name: M/Kingdom_Key.model
 # Oathkeeper
 - name: obj/W_EX010_10.mdlx
   multi:
   - name: obj/W_EX010_10_NM.mdlx
   - name: obj/W_EX010_10_TR.mdlx
   - name: obj/W_EX010_10_WI.mdlx
-  method: copy
+  method: binarc
   source:
-  - name: Model/Oathkeeper.mdlx
+  - name: w_ex
+    type: model
+    method: copy
+    source:
+    - name: M/Oathkeeper.model
 # Oblivion
 - name: obj/W_EX010_20.mdlx
   multi:
   - name: obj/W_EX010_20_NM.mdlx
   - name: obj/W_EX010_20_TR.mdlx
   - name: obj/W_EX010_20_WI.mdlx
-  method: copy
+  method: binarc
   source:
-  - name: Model/Oblivion.mdlx
+  - name: w_ex
+    type: model
+    method: copy
+    source:
+    - name: M/Oblivion.model
 # Star Seeker
 - name: obj/W_EX010_30.mdlx
   multi:
   - name: obj/W_EX010_30_NM.mdlx
   - name: obj/W_EX010_30_TR.mdlx
   - name: obj/W_EX010_30_WI.mdlx
-  method: copy
+  method: binarc
   source:
-  - name: Model/Star_Seeker.mdlx
+  - name: w_ex
+    type: model
+    method: copy
+    source:
+    - name: M/Star_Seeker.model
 # Hidden Dragon
 - name: obj/W_EX010_40.mdlx
   multi:
   - name: obj/W_EX010_40_NM.mdlx
   - name: obj/W_EX010_40_TR.mdlx
   - name: obj/W_EX010_40_WI.mdlx
-  method: copy
+  method: binarc
   source:
-  - name: Model/Hidden_Dragon.mdlx
+  - name: w_ex
+    type: model
+    method: copy
+    source:
+    - name: M/Hidden_Dragon.model
 # Hero's Crest
 - name: obj/W_EX010_50.mdlx
   multi:
   - name: obj/W_EX010_50_NM.mdlx
   - name: obj/W_EX010_50_TR.mdlx
   - name: obj/W_EX010_50_WI.mdlx
-  method: copy
+  method: binarc
   source:
-  - name: Model/Heros_Crest.mdlx
+  - name: w_ex
+    type: model
+    method: copy
+    source:
+    - name: M/Heros_Crest.model
 # Monochrome
 - name: obj/W_EX010_60.mdlx
   multi:
   - name: obj/W_EX010_60_NM.mdlx
   - name: obj/W_EX010_60_TR.mdlx
   - name: obj/W_EX010_60_WI.mdlx
-  method: copy
+  method: binarc
   source:
-  - name: Model/Monochrome.mdlx
+  - name: w_ex
+    type: model
+    method: copy
+    source:
+    - name: M/Monochrome.model
 # Follow the Wind
 - name: obj/W_EX010_70.mdlx
   multi:
   - name: obj/W_EX010_70_NM.mdlx
   - name: obj/W_EX010_70_TR.mdlx
   - name: obj/W_EX010_70_WI.mdlx
-  method: copy
+  method: binarc
   source:
-  - name: Model/Follow_the_Wind.mdlx
+  - name: w_ex
+    type: model
+    method: copy
+    source:
+    - name: M/Follow_the_Wind.model
 # Circle of Life
 - name: obj/W_EX010_80.mdlx
   multi:
   - name: obj/W_EX010_80_NM.mdlx
   - name: obj/W_EX010_80_TR.mdlx
   - name: obj/W_EX010_80_WI.mdlx
-  method: copy
+  method: binarc
   source:
-  - name: Model/Circle_of_Life.mdlx
+  - name: w_ex
+    type: model
+    method: copy
+    source:
+    - name: M/Circle_of_Life.model
 # Photon_Debugger
 - name: obj/W_EX010_90.mdlx
   multi:
   - name: obj/W_EX010_90_NM.mdlx
   - name: obj/W_EX010_90_TR.mdlx
   - name: obj/W_EX010_90_WI.mdlx
-  method: copy
+  method: binarc
   source:
-  - name: Model/Photon_Debugger.mdlx
+  - name: w_ex
+    type: model
+    method: copy
+    source:
+    - name: M/Photon_Debugger.model
 # Gullwing
 - name: obj/W_EX010_A0.mdlx
   multi:
   - name: obj/W_EX010_A0_NM.mdlx
   - name: obj/W_EX010_A0_TR.mdlx
   - name: obj/W_EX010_A0_WI.mdlx
-  method: copy
+  method: binarc
   source:
-  - name: Model/Gullwing.mdlx
+  - name: w_ex
+    type: model
+    method: copy
+    source:
+    - name: M/Gullwing.model
 # Rumbling Rose
 - name: obj/W_EX010_B0.mdlx
   multi:
   - name: obj/W_EX010_B0_NM.mdlx
   - name: obj/W_EX010_B0_TR.mdlx
   - name: obj/W_EX010_B0_WI.mdlx
-  method: copy
+  method: binarc
   source:
-  - name: Model/Rumbling_Rose.mdlx
+  - name: w_ex
+    type: model
+    method: copy
+    source:
+    - name: M/Rumbling_Rose.model
 # Guardian Soul
 - name: obj/W_EX010_C0.mdlx
   multi:
   - name: obj/W_EX010_C0_NM.mdlx
   - name: obj/W_EX010_C0_TR.mdlx
   - name: obj/W_EX010_C0_WI.mdlx
-  method: copy
+  method: binarc
   source:
-  - name: Model/Guardian_Soul.mdlx
+  - name: w_ex
+    type: model
+    method: copy
+    source:
+    - name: M/Guardian_Soul.model
 # Wishing Lamp
 - name: obj/W_EX010_D0.mdlx
   multi:
   - name: obj/W_EX010_D0_NM.mdlx
   - name: obj/W_EX010_D0_TR.mdlx
   - name: obj/W_EX010_D0_WI.mdlx
-  method: copy
+  method: binarc
   source:
-  - name: Model/Wishing_Lamp.mdlx
+  - name: w_ex
+    type: model
+    method: copy
+    source:
+    - name: M/Wishing_Lamp.model
 # Decisive Pumpkin
 - name: obj/W_EX010_E0.mdlx
   multi:
   - name: obj/W_EX010_E0_NM.mdlx
   - name: obj/W_EX010_E0_TR.mdlx
   - name: obj/W_EX010_E0_WI.mdlx
-  method: copy
+  method: binarc
   source:
-  - name: Model/Decisive_Pumpkin.mdlx
+  - name: w_ex
+    type: model
+    method: copy
+    source:
+    - name: M/Decisive_Pumpkin.model
 # Sleeping Lion
 - name: obj/W_EX010_F0.mdlx
   multi:
   - name: obj/W_EX010_F0_NM.mdlx
   - name: obj/W_EX010_F0_TR.mdlx
   - name: obj/W_EX010_F0_WI.mdlx
-  method: copy
+  method: binarc
   source:
-  - name: Model/Sleeping_Lion.mdlx
+  - name: w_ex
+    type: model
+    method: copy
+    source:
+    - name: M/Sleeping_Lion.model
 # Sweet Memories
 - name: obj/W_EX010_G0.mdlx
   multi:
   - name: obj/W_EX010_G0_NM.mdlx
   - name: obj/W_EX010_G0_TR.mdlx
   - name: obj/W_EX010_G0_WI.mdlx
-  method: copy
+  method: binarc
   source:
-  - name: Model/Sweet_Memories.mdlx
+  - name: w_ex
+    type: model
+    method: copy
+    source:
+    - name: M/Sweet_Memories.model
 # Mysterious Abyss
 - name: obj/W_EX010_H0.mdlx
   multi:
   - name: obj/W_EX010_H0_NM.mdlx
   - name: obj/W_EX010_H0_TR.mdlx
   - name: obj/W_EX010_H0_WI.mdlx
-  method: copy
+  method: binarc
   source:
-  - name: Model/Mysterious_Abyss.mdlx
+  - name: w_ex
+    type: model
+    method: copy
+    source:
+    - name: M/Mysterious_Abyss.model
 # Fatal Crest
 - name: obj/W_EX010_J0.mdlx
   multi:
   - name: obj/W_EX010_J0_NM.mdlx
   - name: obj/W_EX010_J0_TR.mdlx
   - name: obj/W_EX010_J0_WI.mdlx
-  method: copy
+  method: binarc
   source:
-  - name: Model/Fatal_Crest.mdlx
+  - name: w_ex
+    type: model
+    method: copy
+    source:
+    - name: M/Fatal_Crest.model
 # Bond of Flame
 - name: obj/W_EX010_K0.mdlx
   multi:
   - name: obj/W_EX010_K0_NM.mdlx
   - name: obj/W_EX010_K0_TR.mdlx
   - name: obj/W_EX010_K0_WI.mdlx
-  method: copy
+  method: binarc
   source:
-  - name: Model/Bond_of_Flame.mdlx
+  - name: w_ex
+    type: model
+    method: copy
+    source:
+    - name: M/Bond_of_Flame.model
 # Fenrir
 - name: obj/W_EX010_M0.mdlx
   multi:
   - name: obj/W_EX010_M0_NM.mdlx
   - name: obj/W_EX010_M0_TR.mdlx
   - name: obj/W_EX010_M0_WI.mdlx
-  method: copy
+  method: binarc
   source:
-  - name: Model/Fenrir.mdlx
+  - name: w_ex
+    type: model
+    method: copy
+    source:
+    - name: M/Fenrir.model
 # Ultima Weapon
 - name: obj/W_EX010_N0.mdlx
   multi:
   - name: obj/W_EX010_N0_NM.mdlx
   - name: obj/W_EX010_N0_TR.mdlx
   - name: obj/W_EX010_N0_WI.mdlx
-  method: copy
+  method: binarc
   source:
-  - name: Model/Ultima_Weapon.mdlx
+  - name: w_ex
+    type: model
+    method: copy
+    source:
+    - name: M/Ultima_Weapon.model
 # Two Become One
 - name: obj/W_EX010_P0.mdlx
   multi:
   - name: obj/W_EX010_P0_NM.mdlx
   - name: obj/W_EX010_P0_TR.mdlx
   - name: obj/W_EX010_P0_WI.mdlx
-  method: copy
+  method: binarc
   source:
-  - name: Model/Two_Become_One.mdlx
+  - name: w_ex
+    type: model
+    method: copy
+    source:
+    - name: M/Two_Become_One.model
 # Winners Proof
 - name: obj/W_EX010_R0.mdlx
   multi:
   - name: obj/W_EX010_R0_NM.mdlx
   - name: obj/W_EX010_R0_TR.mdlx
   - name: obj/W_EX010_R0_WI.mdlx
-  method: copy
+  method: binarc
   source:
-  - name: Model/Winners_Proof.mdlx
+  - name: w_ex
+    type: model
+    method: copy
+    source:
+    - name: M/Winners_Proof.model
